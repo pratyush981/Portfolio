@@ -1,2 +1,2 @@
 # Portfolio
-Designed a portfolio using html,css and javascript
+ Creating a portfolio website using html and css
